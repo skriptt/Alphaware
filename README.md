@@ -1,5 +1,6 @@
 # Alphaware
 
+(Gonna release soon, just adding and removing some things)
 
 Alphaware is a rage cheat based off Osiris (danielkrupinski/Osiris)
 
