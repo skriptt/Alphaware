@@ -29,7 +29,7 @@ danielkrupinski/Osiris
 
 
 Change Logs:
-1.0: Changed Menu Size
+1.0: Changed Menu Size + Fixed Menu Bugs
 
 To Do:
 1. Add doubletap
